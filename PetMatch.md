@@ -2,7 +2,7 @@ Tony
 
 Ruilin
 
-hello git
+git
 
 Jiaying
 hello
